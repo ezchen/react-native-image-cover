@@ -1,3 +1,5 @@
+# IN PROGRESS
+
 # React-Native-Image-Cover
 A better version of React Native's Image components resizeMode="Cover". This library allows you to offset the image instead of simply centering the image after the resize.
 
