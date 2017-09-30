@@ -1,5 +1,7 @@
 # IN PROGRESS
 
+This Component is currently not available on npm. If you want to use it, simply clone the repository and copy the ImageCover file to your source and import normally in react native.
+
 # React-Native-Image-Cover
 A better version of React Native's Image components resizeMode="Cover". This library allows you to offset the image instead of simply centering the image after the resize.
 
